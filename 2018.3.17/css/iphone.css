@@ -48,6 +48,7 @@ body{
 	float: right;
 	width: 3.6rem;
 	height: 0.68rem;
+	background:#ccc;
 }
 .ipt select{
 	width: 3.5rem;
