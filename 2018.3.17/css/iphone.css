@@ -57,6 +57,7 @@ body{
 	border:none;
 	margin-left: 0.1rem;
 	outline: none;color:#dadadb;
+	background:#fff;
 }
 option{font-size:0.24rem;color: #000;}
 .cate ul li.btn{
