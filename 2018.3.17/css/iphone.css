@@ -1,7 +1,7 @@
 *{margin:0;padding:0;font-family: 'Microsoft YaHei'}
 html{height: 100%}
 body{
-	background: url(../img/iphone.jpg);
+	background: url(../img/iphone.jpg) no-repeat;
 	background-size: 100% 100%;
 	overflow: hidden;
 	height: 100%;
