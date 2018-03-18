@@ -6,7 +6,7 @@ body{
 }
 .tittle{
 	width:100%;
-	height: 3rem;
+	height: 1.6rem;
 	text-align: center;
 	margin-top:0.97rem;
 }
@@ -17,13 +17,13 @@ body{
 	text-shadow:1px 1px 5px #fff;
 }
 .down{
-	margin-top:0.37rem;
+	margin-top:0.2rem;
 }
 .cate{
 	width: 5rem;
 	height: 6.58rem;
 	margin:0 auto;
-	margin-top:0.4rem;
+	margin-top:2.1rem;
 }
 .cate ul li{
 	width: 5rem;
@@ -50,14 +50,13 @@ body{
 	height: 0.68rem;
 }
 .ipt select{
-	width: 3.6rem;
+	width: 3.5rem;
 	height: 0.68rem;
 	font-size:0.24rem;
 	float: left;
 	border:none;
-	padding-left: 0.1rem;
+	margin-left: 0.1rem;
 	outline: none;color:#dadadb;
-	background:#fff;
 }
 option{font-size:0.24rem;color: #000;}
 .cate ul li.btn{
