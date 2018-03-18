@@ -3,7 +3,6 @@ html{height: 100%}
 body{
 	background: url(../img/iphone.jpg) no-repeat;
 	background-size: 100% 100%;
-	overflow: hidden;
 	height: 100%;
 	padding-top:0.01rem;
 }
